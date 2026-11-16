@@ -6,9 +6,14 @@ MQ-3 gaz sensörüyle nefesteki alkol yoğunluğunu ölçen, sonucu promil olara
 
 Proje; analog sensör okuma, sıcaklık/nem kompanzasyonu, durum makinesi tabanlı gömülü yazılım, LVGL ile HMI tasarımı ve sistem güvenilirliği (watchdog, kalıcı kalibrasyon, sensör arıza tespiti) konularını bir arada içerir.
 
-<!-- Cihazın fotoğrafını docs/ klasörüne koyup alttaki satırın başındaki ve sonundaki yorum işaretlerini sil -->
-<!-- ![Cihaz](docs/cihaz.jpg) -->
-<!-- [Demo videosu](https://...) -->
+<p align="center"><img src="docs/kurulum.jpg" width="420" alt="Breadboard üzerindeki prototip"></p>
+
+| Ölçüm bekleme | Kalibrasyon | Kanal temizleme |
+|---|---|---|
+| <img src="docs/ekran-olcum-bekleme.jpg" width="250"> | <img src="docs/ekran-kalibrasyon.jpg" width="250"> | <img src="docs/ekran-kanal-temizleme.jpg" width="250"> |
+| "Lütfen pipeti takınız, ardından butona basınız" | R0 kalibrasyonu sürüyor | Ölçüm öncesi kirlilik algılandı, fan kanalı temizliyor |
+
+🎥 **[Demo videosu](docs/demo.mp4)**
 
 ---
 

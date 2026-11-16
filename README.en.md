@@ -6,8 +6,14 @@ An ESP32-based device that measures breath alcohol concentration with an MQ-3 ga
 
 The project combines analog sensor acquisition, temperature/humidity compensation, state-machine-driven embedded firmware, HMI design with LVGL, and reliability features: a watchdog, persistent calibration and sensor fault detection.
 
-<!-- ![Device](docs/cihaz.jpg) -->
-<!-- [Demo video](https://...) -->
+<p align="center"><img src="docs/kurulum.jpg" width="420" alt="Breadboard prototype"></p>
+
+| Waiting for measurement | Calibration | Channel purge |
+|---|---|---|
+| <img src="docs/ekran-olcum-bekleme.jpg" width="250"> | <img src="docs/ekran-kalibrasyon.jpg" width="250"> | <img src="docs/ekran-kanal-temizleme.jpg" width="250"> |
+| "Attach the mouthpiece, then press the button" | R0 calibration in progress | Contamination detected before measurement, fan purging the channel |
+
+🎥 **[Demo video](docs/demo.mp4)**
 
 ---
 
