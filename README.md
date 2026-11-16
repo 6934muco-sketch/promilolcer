@@ -13,7 +13,11 @@ Proje; analog sensör okuma, sıcaklık/nem kompanzasyonu, durum makinesi tabanl
 | <img src="docs/ekran-olcum-bekleme.jpg" width="250"> | <img src="docs/ekran-kalibrasyon.jpg" width="250"> | <img src="docs/ekran-kanal-temizleme.jpg" width="250"> |
 | "Lütfen pipeti takınız, ardından butona basınız" | R0 kalibrasyonu sürüyor | Ölçüm öncesi kirlilik algılandı, fan kanalı temizliyor |
 
-🎥 **[Demo videosu](docs/demo.mp4)**
+
+
+https://github.com/user-attachments/assets/cc5a9b4a-1d4b-420c-b947-b24527f48315
+
+
 
 ---
 
