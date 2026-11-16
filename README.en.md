@@ -13,7 +13,7 @@ The project combines analog sensor acquisition, temperature/humidity compensatio
 | <img src="docs/ekran-olcum-bekleme.jpg" width="250"> | <img src="docs/ekran-kalibrasyon.jpg" width="250"> | <img src="docs/ekran-kanal-temizleme.jpg" width="250"> |
 | "Attach the mouthpiece, then press the button" | R0 calibration in progress | Contamination detected before measurement, fan purging the channel |
 
-🎥 **[Demo video](docs/demo.mp4)**
+https://github.com/user-attachments/assets/cc5a9b4a-1d4b-420c-b947-b24527f48315
 
 ---
 
