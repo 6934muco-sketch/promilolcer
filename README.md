@@ -174,9 +174,16 @@ ui/
 - Kompanzasyon tablosu datasheet grafiğinden gözle okunarak sayısallaştırıldı. Kirlilik eşiği (`KANAL_KIRLILIK_ESIK_HPA`) sahada yeniden kalibre edilmelidir.
 - Bu cihaz eğitim ve geliştirme amaçlıdır. Araç kullanımı gibi yasal kararlarda kullanılmamalıdır.
 
+## Gövde Tasarımı (planlanan)
+
+Prototip şu an breadboard üzerinde çalışıyor. Bir sonraki adım olarak cihazın duvara monte edilebilir bir gövdesi 3D CAD ile tasarlandı. Tasarımda ekran penceresi, ölçüm butonu, pipet takma yeri ve yedek pipet haznesi var. Gövde henüz üretilmedi.
+
+<p align="center"><img src="docs/govde-tasarimi.jpg" width="300" alt="Planlanan gövde tasarımı (3D CAD)"></p>
+
 ## Geliştirme Planı
 
 - [ ] Breadboard'dan özel PCB'ye geçiş
+- [ ] Tasarlanan gövdenin 3D baskı ile üretilmesi
 - [ ] Kalibre edilmiş ticari bir cihazla karşılaştırmalı kalibrasyon
 - [ ] Kompanzasyon tablosunu datasheet'in sayısal verisiyle güncellemek
 - [ ] Ölçüm geçmişini kaydetme / dışa aktarma

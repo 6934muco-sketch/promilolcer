@@ -167,9 +167,16 @@ Code comments and design notes are in Turkish.
 - The compensation table was digitized by eye from the datasheet chart. The contamination threshold (`KANAL_KIRLILIK_ESIK_HPA`) should be recalibrated on the final hardware.
 - For education and development only. Do not use it for legal decisions such as fitness to drive.
 
+## Enclosure Design (planned)
+
+The prototype currently runs on a breadboard. As the next step, a wall-mountable enclosure was designed in 3D CAD. It has a display window, a measurement button, a mouthpiece holder and a spare mouthpiece compartment. The enclosure has not been manufactured yet.
+
+<p align="center"><img src="docs/govde-tasarimi.jpg" width="300" alt="Planned enclosure design (3D CAD)"></p>
+
 ## Roadmap
 
 - [ ] Move from breadboard to a custom PCB
+- [ ] 3D-print the designed enclosure
 - [ ] Comparative calibration against a certified commercial breathalyzer
 - [ ] Replace the compensation table with the datasheet's numeric data
 - [ ] Measurement history logging / export
